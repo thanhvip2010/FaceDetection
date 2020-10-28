@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=UhWMC5rSYmA&list=PL2g_5adpoaeKqqgYek-Ql0VKJ-ry46mIq
+
+
+Face detection using Cascade classifier, OpenCV and python
+
+PracticalAI
